@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 
 REVISTAS_JSON = 'datos/json/revistas_basicas.json'
-SCIMAGO_JSON = 'datos/json/scimago_data.json'
+SCIMAGO_JSON = 'datos/json/revistas_completo.json'
 BASE_SEARCH_URL = "https://www.scimagojr.com/journalsearch.php?q="
 
 # Cargar revistas
@@ -73,6 +73,6 @@ for titulo in revistas:
     else:
         print(f"⚠️ No se encontró información de: {titulo}")
     
-    time.sleep(2)  # Cortesía para evitar bloquear IP
+    time.sleep(2) 
 
 print("✅ Scraping completo.")
