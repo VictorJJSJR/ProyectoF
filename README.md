@@ -15,6 +15,7 @@ Al hacer todos los cambios estos se tuvieron que hacer desde un mismo equipo, po
 ## Estructura del proyecto:
 
 proyecto/
+
 ├── app/
 
 │─── main.py
