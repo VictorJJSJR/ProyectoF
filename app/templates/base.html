@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Catálogo de Revistas</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            background-color: #fcfca2;
+        }
+        header {
+            background-color: #3129af;
+            color: white;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+        }
+        .logo-superior {
+            width: 10px;
+            height: 10px;
+        }
+        .logo-inferior {
+            width: 100px;
+            height: 100px;
+        }
+    </style>
+</head>
+<body>
+    <header class="py-3 px-4 d-flex justify-content-between align-items-center">
+        <h1 class="h4 m-0">Catálogo de Revistas</h1>
+        <img src="https://www.unison.mx/wp-content/uploads/2018/08/escudo-med-lema.gif" alt="UNISON Logo" class="logo-superior">
+    </header>
+
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #3129af;">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="{{ url_for('index') }}">Inicio</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menuNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="menuNav">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item"><a class="nav-link" href="{{ url_for('mostrar_areas') }}">Área</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ url_for('mostrar_catalogos') }}">Catálogos</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ url_for('explorar') }}">Explorar</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ url_for('busqueda') }}">Búsqueda</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ url_for('creditos') }}">Créditos</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container my-4">
+        {% block content %}
+        {% endblock %}
+    </main>
+
+    <footer>
+        <img src="https://www.unison.mx/wp-content/uploads/2018/08/escudo-med-lema.gif" alt="Logo UNISON Inferior" class="logo-inferior">
+    </footer>
+
+    <!-- Bootstrap JS CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
