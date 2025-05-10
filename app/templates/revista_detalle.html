@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-4">
+  <h2>{{ titulo }}</h2>
+  <ul class="list-group">
+    <li class="list-group-item"><strong>H-Index:</strong> {{ datos.get('H-Index', 'N/A') }}</li>
+    <li class="list-group-item"><strong>Publisher:</strong> {{ datos.get('Publisher', 'N/A') }}</li>
+    <li class="list-group-item"><strong>ISSN:</strong> {{ datos.get('ISSN', 'N/A') }}</li>
+    <li class="list-group-item"><strong>Publication Type:</strong> {{ datos.get('Publication Type', 'N/A') }}</li>
+    <li class="list-group-item"><strong>Subject Area and category:</strong> {{ datos.get('Subject Area and category', 'N/A') }}</li>
+    <li class="list-group-item"><strong>Website:</strong>
+      {% if datos.get('Sitio web') %}
+        <a href="{{ datos['Sitio web'] }}" target="_blank">{{ datos['Sitio web'] }}</a>
+      {% else %}
+        N/A
+      {% endif %}
+    </li>
+    <li class="list-group-item"><strong>Áreas:</strong>
+      {% for area in datos.get('areas', []) %}
+        <a href="{{ url_for('revistas_por_area', nombre=area) }}">{{ area }}</a>{% if not loop.last %}, {% endif %}
+      {% endfor %}
+    </li>
+    <li class="list-group-item"><strong>Catálogos:</strong>
+      {% for cat in datos.get('catalogos', []) %}
+        <a href="{{ url_for('revistas_por_catalogo', nombre=cat) }}">{{ cat }}</a>{% if not loop.last %}, {% endif %}
+      {% endfor %}
+    </li>
+  </ul>
+
+  {% if datos.get('Widget') %}
+    <div class="mt-4">
+      <h5>Widget:</h5>
+      {{ datos['Widget']|safe }}
+    </div>
+  {% endif %}
+</div>
+{% endblock %}

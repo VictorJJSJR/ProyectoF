@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-4">
+  <h2>Revistas por {{ tipo }}: <span class="text-primary">{{ filtro }}</span></h2>
+  <input type="text" class="form-control my-3" id="busqueda" placeholder="Buscar revista...">
+  <table class="table table-bordered table-hover" id="tabla">
+    <thead class="table-light">
+      <tr>
+        <th>Título</th>
+        <th>H-Index</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for titulo, datos in revistas.items() %}
+      <tr>
+        <td><a href="{{ url_for('detalle_revista', titulo=titulo) }}">{{ titulo }}</a></td>
+        <td>{{ datos.get('H-Index', 'N/A') }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<script>
+document.getElementById('busqueda').addEventListener('keyup', function () {
+  const filtro = this.value.toLowerCase();
+  const filas = document.querySelectorAll("#tabla tbody tr");
+  filas.forEach(fila => {
+    const texto = fila.textContent.toLowerCase();
+    fila.style.display = texto.includes(filtro) ? "" : "none";
+  });
+});
+</script>
+{% endblock %}
