@@ -1,7 +1,7 @@
 # ProyectoFinal
 Proyecto final de 2025-1 DS IV 10:00hrs
 
-Miembros del equipo:
+## Miembros del equipo:
 - Victor Javier Jurado Sanchez Jr.
 - Jesus Alejandro Coronado Barraza (No alumno)
 
