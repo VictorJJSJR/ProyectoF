@@ -16,7 +16,7 @@ def procesar_csv_por_directorio(directorio, tipo):
         if archivo.endswith(".csv"):
             nombre = archivo.split(" ")[0].strip()  # Ejemplo: CIENCIAS_EXA
             path = os.path.join(directorio, archivo)
-            with open(path, encoding="utf-8-sig") as f:
+            with open(path, encoding="latin1") as f:
                 lector = csv.reader(f)
                 next(lector, None)  # Saltar encabezado
                 for linea in lector:
