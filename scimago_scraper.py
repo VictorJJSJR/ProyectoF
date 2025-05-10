@@ -4,7 +4,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 
-REVISTAS_JSON = 'datos/json/revistas.json'
+REVISTAS_JSON = 'datos/json/revistas_basicas.json'
 SCIMAGO_JSON = 'datos/json/scimago_data.json'
 BASE_SEARCH_URL = "https://www.scimagojr.com/journalsearch.php?q="
 
