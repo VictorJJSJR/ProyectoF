@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container text-center mt-5">
+    <h2 class="mb-4">Explorar por letra inicial</h2>
+    <div class="d-flex flex-wrap justify-content-center">
+        {% for letra in letras %}
+            <a href="{{ url_for('explorar_letra', letra=letra) }}" class="btn btn-outline-primary m-1">
+                {{ letra }}
+            </a>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

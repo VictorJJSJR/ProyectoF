@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-5">
+    <h2>Revistas que inician con la letra "{{ letra.upper() }}"</h2>
+    {% if revistas %}
+        <div class="table-responsive mt-3">
+            <table class="table table-striped table-bordered">
+                <thead class="table-primary">
+                    <tr>
+                        <th>Título</th>
+                        <th>Áreas</th>
+                        <th>Catálogos</th>
+                        <th>H-Index</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for titulo, datos in revistas.items() %}
+                    <tr>
+                        <td>
+                            <a href="{{ url_for('detalle_revista', titulo=titulo) }}">{{ titulo }}</a>
+                        </td>
+                        <td>
+                            {% for area in datos.areas %}
+                                <a href="{{ url_for('revistas_por_area', area=area) }}">{{ area }}</a>{% if not loop.last %}, {% endif %}
+                            {% endfor %}
+                        </td>
+                        <td>
+                            {% for catalogo in datos.catalogos %}
+                                <a href="{{ url_for('revistas_por_catalogo', catalogo=catalogo) }}">{{ catalogo }}</a>{% if not loop.last %}, {% endif %}
+                            {% endfor %}
+                        </td>
+                        <td>{{ datos.get('H-Index', 'N/A') }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    {% else %}
+        <p>No se encontraron revistas que inicien con esa letra.</p>
+    {% endif %}
+</div>
+{% endblock %}
