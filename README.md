@@ -16,34 +16,34 @@ Al hacer todos los cambios estos se tuvieron que hacer desde un mismo equipo, po
 
 proyecto/
 ├── app/
-
-│ ├── main.py
-
-│ ├── static/
-
-│ └── templates/    <- Contenedor de html
-
+|
+│─── main.py
+|
+│    ├─────── static/
+|
+│    └─────── templates/    <- Contenedor de html
+|
 ├── scimago_scraper.py
-
+|
 ├── datos/
-
-│ ├── csv/
-
-│ │ ├── areas/      <- Archivos csv
-
-│ │ └── catalogos/  <- Archivos csv
-
-│ └── json/
-
-│ ├── revistas_basicas.json
-
-│ └── revistas_scimago.json
-
-├── requirimientos.txt
-
-└── generate_json.py
-
-└── README.md
+|
+│   ├─────── csv/
+|
+│   │ ├───────── areas/      <- Archivos csv
+|
+│   │ └───────── catalogos/  <- Archivos csv
+|
+│   └────── json/
+|
+│   ├──────────── revistas_basicas.json
+|
+│   └──────────── revistas_scimago.json
+|
+├─── requirimientos.txt
+|
+|─── generate_json.py
+|
+└─── README.md
 
 
 ## Requisitos
