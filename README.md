@@ -65,14 +65,16 @@ Existe un sript para hacer que la parte 1 funcione por separado para probarlo, e
 Y esto genera el archivo en datos/json/revistas_basicas.json
 
 ## Parte 2:
-Ejectura en terminal: python scimago_scraper.py
+Ejectura en terminal: python scimago_scraper.py (Tomara un largo tiempo, minimo 1 hora, pero hace la busqueda correctamente.)
 
 Esto lee revistas_basicas.json, consulta SCIMAGO y genera revistas_scimago.json.
 
 Nota: Si un título ya fue descargado, no se vuelve a consultar.
 
 ## Parte 3:
-Desde la carpeta raiz: python app/main.py
+Primero se tiene que correr la Parte 2, despues:
+
+Desde la carpeta raiz: python main.py
 
 Posteriormente atraves del navegador acceder a: http://localhost:5000
 
