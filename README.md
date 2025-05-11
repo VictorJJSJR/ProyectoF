@@ -20,7 +20,7 @@ proyecto/
 
 │─── main.py
 
-│    ├─────── static/
+│    ├─────── static/       <- Logotipo
 
 │    └─────── templates/    <- Contenedor de html
 
