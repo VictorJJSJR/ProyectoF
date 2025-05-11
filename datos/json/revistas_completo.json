@@ -1,0 +1,1758 @@
+{
+    "philosophy, psychiatry and psychology": {
+        "areas": [
+            "HUMAN_Y_ART",
+            "CIENCIAS_BIO",
+            "ING"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/philosophy,_psychiatry_and_psychology",
+        "publisher": "Editorial Zeta",
+        "h_index": "13",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "1498-6106",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=philosophy,+psychiatry+and+psychology"
+    },
+    "hormones": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/hormones",
+        "publisher": "Editorial Zeta",
+        "h_index": "84",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "8712-7725",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=hormones"
+    },
+    "editorial a contracorriente": {
+        "areas": [
+            "ED_LIB"
+        ],
+        "catalogos": [],
+        "website": "https://example.org/editorial_a_contracorriente",
+        "publisher": "Editorial Delta",
+        "h_index": "42",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "2278-4596",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=editorial+a+contracorriente"
+    },
+    "topology and its applications": {
+        "areas": [
+            "CIENCIAS_EXA"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/topology_and_its_applications",
+        "publisher": "Editorial Zeta",
+        "h_index": "29",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "9906-9172",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=topology+and+its+applications"
+    },
+    "international journal of language studies": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/international_journal_of_language_studies",
+        "publisher": "Editorial Sigma",
+        "h_index": "87",
+        "subject_areas": [
+            "Engineering"
+        ],
+        "publication_type": "Journal",
+        "issn": "9811-1329",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=international+journal+of+language+studies"
+    },
+    "journal of the international association of providers of aids care": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/journal_of_the_international_association_of_providers_of_aids_care",
+        "publisher": "Editorial Sigma",
+        "h_index": "43",
+        "subject_areas": [
+            "Engineering"
+        ],
+        "publication_type": "Journal",
+        "issn": "9876-4813",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=journal+of+the+international+association+of+providers+of+aids+care"
+    },
+    "la coronica: a journal of medieval spanish language and literature": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/la_coronica:_a_journal_of_medieval_spanish_language_and_literature",
+        "publisher": "Editorial Delta",
+        "h_index": "45",
+        "subject_areas": [
+            "Engineering"
+        ],
+        "publication_type": "Journal",
+        "issn": "8236-6083",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=la+coronica:+a+journal+of+medieval+spanish+language+and+literature"
+    },
+    "american journal of physiology - lung cellular and molecular physiology": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/american_journal_of_physiology_-_lung_cellular_and_molecular_physiology",
+        "publisher": "Editorial Sigma",
+        "h_index": "16",
+        "subject_areas": [
+            "Engineering"
+        ],
+        "publication_type": "Journal",
+        "issn": "5427-9009",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=american+journal+of+physiology+-+lung+cellular+and+molecular+physiology"
+    },
+    "medical hypotheses": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/medical_hypotheses",
+        "publisher": "Editorial Delta",
+        "h_index": "41",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "9155-2834",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=medical+hypotheses"
+    },
+    "verba: anuario galego de filoloxa": {
+        "areas": [],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv"
+        ],
+        "website": "https://example.org/verba:_anuario_galego_de_filoloxa",
+        "publisher": "Editorial Delta",
+        "h_index": "16",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "6815-3933",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=verba:+anuario+galego+de+filoloxa"
+    },
+    "cardiovascular therapy and prevention (russian federation)": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/cardiovascular_therapy_and_prevention_(russian_federation)",
+        "publisher": "Editorial Zeta",
+        "h_index": "12",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "9404-1188",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=cardiovascular+therapy+and+prevention+(russian+federation)"
+    },
+    "estudis escenics: quaderns de l'institut del teatre de la diputacio de barcelona": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/estudis_escenics:_quaderns_de_l'institut_del_teatre_de_la_diputacio_de_barcelona",
+        "publisher": "Editorial Delta",
+        "h_index": "40",
+        "subject_areas": [
+            "Engineering"
+        ],
+        "publication_type": "Journal",
+        "issn": "1008-9396",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=estudis+escenics:+quaderns+de+l'institut+del+teatre+de+la+diputacio+de+barcelona"
+    },
+    "ocean science journal": {
+        "areas": [
+            "CIENCIAS_BIO",
+            "CIENCIAS_EXA"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/ocean_science_journal",
+        "publisher": "Editorial Delta",
+        "h_index": "48",
+        "subject_areas": [
+            "Engineering"
+        ],
+        "publication_type": "Journal",
+        "issn": "9651-6651",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=ocean+science+journal"
+    },
+    "journal of colonialism & colonial history": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/journal_of_colonialism_&_colonial_history",
+        "publisher": "Editorial Zeta",
+        "h_index": "33",
+        "subject_areas": [
+            "Sociology"
+        ],
+        "publication_type": "Journal",
+        "issn": "9504-1824",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=journal+of+colonialism+&+colonial+history"
+    },
+    "merton journal": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/merton_journal",
+        "publisher": "Editorial Sigma",
+        "h_index": "96",
+        "subject_areas": [
+            "Engineering"
+        ],
+        "publication_type": "Journal",
+        "issn": "8705-6206",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=merton+journal"
+    },
+    "transactions of the royal society of south australia": {
+        "areas": [
+            "CIENCIAS_SOC",
+            "MULTI",
+            "CIENCIAS_BIO",
+            "CIENCIAS_EXA",
+            "ING"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/transactions_of_the_royal_society_of_south_australia",
+        "publisher": "Editorial Delta",
+        "h_index": "26",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "8492-7116",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=transactions+of+the+royal+society+of+south+australia"
+    },
+    "american journal of dermatopathology": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/american_journal_of_dermatopathology",
+        "publisher": "Editorial Zeta",
+        "h_index": "34",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "2360-6254",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=american+journal+of+dermatopathology"
+    },
+    "birth defects research part b - developmental and reproductive toxicology": {
+        "areas": [
+            "CIENCIAS_BIO",
+            "ING"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/birth_defects_research_part_b_-_developmental_and_reproductive_toxicology",
+        "publisher": "Editorial Sigma",
+        "h_index": "84",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "9019-4939",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=birth+defects+research+part+b+-+developmental+and+reproductive+toxicology"
+    },
+    "hamdard islamicus (pakistan)": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/hamdard_islamicus_(pakistan)",
+        "publisher": "Editorial Sigma",
+        "h_index": "40",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "4312-2722",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=hamdard+islamicus+(pakistan)"
+    },
+    "applied ocean research": {
+        "areas": [
+            "CIENCIAS_BIO",
+            "ING"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/applied_ocean_research",
+        "publisher": "Editorial Zeta",
+        "h_index": "83",
+        "subject_areas": [
+            "Sociology"
+        ],
+        "publication_type": "Journal",
+        "issn": "1472-2416",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=applied+ocean+research"
+    },
+    "journal of naval architecture and marine engineering": {
+        "areas": [
+            "ING"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/journal_of_naval_architecture_and_marine_engineering",
+        "publisher": "Editorial Zeta",
+        "h_index": "90",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "2787-8366",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=journal+of+naval+architecture+and+marine+engineering"
+    },
+    "colon and rectum": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/colon_and_rectum",
+        "publisher": "Editorial Sigma",
+        "h_index": "24",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "1170-9816",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=colon+and+rectum"
+    },
+    "applied clay science": {
+        "areas": [
+            "CIENCIAS_BIO",
+            "ING",
+            "CIENCIAS_EXA"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/applied_clay_science",
+        "publisher": "Editorial Zeta",
+        "h_index": "84",
+        "subject_areas": [
+            "Sociology"
+        ],
+        "publication_type": "Journal",
+        "issn": "9128-9337",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=applied+clay+science"
+    },
+    "international review of allergology and clinical immunology": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/international_review_of_allergology_and_clinical_immunology",
+        "publisher": "Editorial Delta",
+        "h_index": "40",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "5306-7209",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=international+review+of+allergology+and+clinical+immunology"
+    },
+    "journal of historical review (torrance, ca)": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/journal_of_historical_review_(torrance,_ca)",
+        "publisher": "Editorial Sigma",
+        "h_index": "64",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "2304-1258",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=journal+of+historical+review+(torrance,+ca)"
+    },
+    "journal of algorithms-cognition informatics and logic": {
+        "areas": [
+            "ING",
+            "CIENCIAS_EXA"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv"
+        ],
+        "website": "https://example.org/journal_of_algorithms-cognition_informatics_and_logic",
+        "publisher": "Editorial Zeta",
+        "h_index": "45",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "6656-6890",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=journal+of+algorithms-cognition+informatics+and+logic"
+    },
+    "yugntruf: a yiddish student publication/alvel?lekher yidisher yugn?-zhurnal": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/yugntruf:_a_yiddish_student_publication/alvel?lekher_yidisher_yugn?-zhurnal",
+        "publisher": "Editorial Zeta",
+        "h_index": "33",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "4676-5966",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=yugntruf:+a+yiddish+student+publication/alvel?lekher+yidisher+yugn?-zhurnal"
+    },
+    "j. vrin": {
+        "areas": [
+            "ED_LIB"
+        ],
+        "catalogos": [],
+        "website": "https://example.org/j._vrin",
+        "publisher": "Editorial Sigma",
+        "h_index": "96",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "9727-5525",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=j.+vrin"
+    },
+    "ieee antennas and propagation magazine": {
+        "areas": [
+            "ING",
+            "CIENCIAS_EXA"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/ieee_antennas_and_propagation_magazine",
+        "publisher": "Editorial Delta",
+        "h_index": "70",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "4893-4712",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=ieee+antennas+and+propagation+magazine"
+    },
+    "southeastern geographer": {
+        "areas": [
+            "CIENCIAS_EXA",
+            "CIENCIAS_SOC"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/southeastern_geographer",
+        "publisher": "Editorial Zeta",
+        "h_index": "33",
+        "subject_areas": [
+            "Engineering"
+        ],
+        "publication_type": "Journal",
+        "issn": "2943-1913",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=southeastern+geographer"
+    },
+    "voix d'afrique": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/voix_d'afrique",
+        "publisher": "Editorial Zeta",
+        "h_index": "98",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "3905-2874",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=voix+d'afrique"
+    },
+    "horticulture environment and biotechnology": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/horticulture_environment_and_biotechnology",
+        "publisher": "Editorial Zeta",
+        "h_index": "14",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "4842-8619",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=horticulture+environment+and+biotechnology"
+    },
+    "hybrido": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/hybrido",
+        "publisher": "Editorial Zeta",
+        "h_index": "13",
+        "subject_areas": [
+            "Sociology"
+        ],
+        "publication_type": "Journal",
+        "issn": "3908-4252",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=hybrido"
+    },
+    "amer psychiatric press, inc": {
+        "areas": [
+            "ED_LIB"
+        ],
+        "catalogos": [],
+        "website": "https://example.org/amer_psychiatric_press,_inc",
+        "publisher": "Editorial Zeta",
+        "h_index": "57",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "5071-9943",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=amer+psychiatric+press,+inc"
+    },
+    "fiziologiia cheloveka": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/fiziologiia_cheloveka",
+        "publisher": "Editorial Zeta",
+        "h_index": "51",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "2183-1018",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=fiziologiia+cheloveka"
+    },
+    "physical education and sport pedagogy": {
+        "areas": [
+            "HUMAN_Y_ART",
+            "CIENCIAS_BIO",
+            "CIENCIAS_SOC"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/physical_education_and_sport_pedagogy",
+        "publisher": "Editorial Sigma",
+        "h_index": "28",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "4830-7998",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=physical+education+and+sport+pedagogy"
+    },
+    "wissenschaftliche zeitschrift der friedrich-schiller-universit?t jena. gesellschaftswissenschaftliche reihe": {
+        "areas": [],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv"
+        ],
+        "website": "https://example.org/wissenschaftliche_zeitschrift_der_friedrich-schiller-universit?t_jena._gesellschaftswissenschaftliche_reihe",
+        "publisher": "Editorial Zeta",
+        "h_index": "53",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "5899-7081",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=wissenschaftliche+zeitschrift+der+friedrich-schiller-universit?t+jena.+gesellschaftswissenschaftliche+reihe"
+    },
+    "krankenhauspharmazie": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/krankenhauspharmazie",
+        "publisher": "Editorial Delta",
+        "h_index": "49",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "6275-8298",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=krankenhauspharmazie"
+    },
+    "rivista di studi crociani": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/rivista_di_studi_crociani",
+        "publisher": "Editorial Delta",
+        "h_index": "77",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "9637-8419",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=rivista+di+studi+crociani"
+    },
+    "supplements to clinical neurophysiology": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/supplements_to_clinical_neurophysiology",
+        "publisher": "Editorial Sigma",
+        "h_index": "79",
+        "subject_areas": [
+            "Sociology"
+        ],
+        "publication_type": "Journal",
+        "issn": "1647-9444",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=supplements+to+clinical+neurophysiology"
+    },
+    "ieee transactions on electromagnetic compatibility": {
+        "areas": [
+            "ING",
+            "CIENCIAS_EXA"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/ieee_transactions_on_electromagnetic_compatibility",
+        "publisher": "Editorial Sigma",
+        "h_index": "61",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "5181-4000",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=ieee+transactions+on+electromagnetic+compatibility"
+    },
+    "journal of herpetology": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/journal_of_herpetology",
+        "publisher": "Editorial Zeta",
+        "h_index": "93",
+        "subject_areas": [
+            "Engineering"
+        ],
+        "publication_type": "Journal",
+        "issn": "6730-8841",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=journal+of+herpetology"
+    },
+    "ling. in netherlands": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/ling._in_netherlands",
+        "publisher": "Editorial Zeta",
+        "h_index": "95",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "7586-8833",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=ling.+in+netherlands"
+    },
+    "wehrkunde: organ der gesellschaft f?r wehrkunde": {
+        "areas": [],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv"
+        ],
+        "website": "https://example.org/wehrkunde:_organ_der_gesellschaft_f?r_wehrkunde",
+        "publisher": "Editorial Zeta",
+        "h_index": "74",
+        "subject_areas": [
+            "Sociology"
+        ],
+        "publication_type": "Journal",
+        "issn": "2370-2021",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=wehrkunde:+organ+der+gesellschaft+f?r+wehrkunde"
+    },
+    "edizioni minerva medica": {
+        "areas": [
+            "ED_LIB"
+        ],
+        "catalogos": [],
+        "website": "https://example.org/edizioni_minerva_medica",
+        "publisher": "Editorial Delta",
+        "h_index": "46",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "4117-3284",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=edizioni+minerva+medica"
+    },
+    "jeu: revue de thôtre": {
+        "areas": [],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv"
+        ],
+        "website": "https://example.org/jeu:_revue_de_thôtre",
+        "publisher": "Editorial Zeta",
+        "h_index": "32",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "3152-5976",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=jeu:+revue+de+thôtre"
+    },
+    "blood transfusion": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/blood_transfusion",
+        "publisher": "Editorial Delta",
+        "h_index": "87",
+        "subject_areas": [
+            "Engineering"
+        ],
+        "publication_type": "Journal",
+        "issn": "4346-5432",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=blood+transfusion"
+    },
+    "kongqi donglixue xuebao/acta aerodynamica sinica": {
+        "areas": [
+            "ING",
+            "CIENCIAS_EXA"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/kongqi_donglixue_xuebao/acta_aerodynamica_sinica",
+        "publisher": "Editorial Sigma",
+        "h_index": "41",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "8504-6969",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=kongqi+donglixue+xuebao/acta+aerodynamica+sinica"
+    },
+    "council chronicle": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/council_chronicle",
+        "publisher": "Editorial Delta",
+        "h_index": "44",
+        "subject_areas": [
+            "Sociology"
+        ],
+        "publication_type": "Journal",
+        "issn": "5659-8920",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=council+chronicle"
+    },
+    "afrique et l'asie modernes (paris)": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/afrique_et_l'asie_modernes_(paris)",
+        "publisher": "Editorial Sigma",
+        "h_index": "36",
+        "subject_areas": [
+            "Engineering"
+        ],
+        "publication_type": "Journal",
+        "issn": "1952-1013",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=afrique+et+l'asie+modernes+(paris)"
+    },
+    "bulletin. john rylands university library of manchester": {
+        "areas": [
+            "HUMAN_Y_ART",
+            "CIENCIAS_SOC"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/bulletin._john_rylands_university_library_of_manchester",
+        "publisher": "Editorial Sigma",
+        "h_index": "71",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "1834-9799",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=bulletin.+john+rylands+university+library+of+manchester"
+    },
+    "iranian journal of medical sciences": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/iranian_journal_of_medical_sciences",
+        "publisher": "Editorial Sigma",
+        "h_index": "25",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "2772-7065",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=iranian+journal+of+medical+sciences"
+    },
+    "nuklearmedizin": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/nuklearmedizin",
+        "publisher": "Editorial Zeta",
+        "h_index": "20",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "2529-2024",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=nuklearmedizin"
+    },
+    "annales de la societe entomologique de france": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/annales_de_la_societe_entomologique_de_france",
+        "publisher": "Editorial Sigma",
+        "h_index": "38",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "2588-5664",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=annales+de+la+societe+entomologique+de+france"
+    },
+    "cottonwood": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/cottonwood",
+        "publisher": "Editorial Delta",
+        "h_index": "83",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "4157-7054",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=cottonwood"
+    },
+    "journal of ethics in leadership": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/journal_of_ethics_in_leadership",
+        "publisher": "Editorial Zeta",
+        "h_index": "78",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "8536-4751",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=journal+of+ethics+in+leadership"
+    },
+    "vestnik leningradskogo universiteta. serija istorii, jazyka i literatury": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/vestnik_leningradskogo_universiteta._serija_istorii,_jazyka_i_literatury",
+        "publisher": "Editorial Delta",
+        "h_index": "34",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "6382-9205",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=vestnik+leningradskogo+universiteta.+serija+istorii,+jazyka+i+literatury"
+    },
+    "international journal of technology enhanced learning": {
+        "areas": [
+            "CIENCIAS_EXA",
+            "CIENCIAS_SOC"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/international_journal_of_technology_enhanced_learning",
+        "publisher": "Editorial Delta",
+        "h_index": "47",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "1907-9810",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=international+journal+of+technology+enhanced+learning"
+    },
+    "diablo texto: revista de crtica literaria": {
+        "areas": [],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv"
+        ],
+        "website": "https://example.org/diablo_texto:_revista_de_crtica_literaria",
+        "publisher": "Editorial Delta",
+        "h_index": "81",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "6341-3203",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=diablo+texto:+revista+de+crtica+literaria"
+    },
+    "interdisciplinary sciences-computational life sciences": {
+        "areas": [
+            "CIENCIAS_BIO",
+            "CIENCIAS_EXA"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv"
+        ],
+        "website": "https://example.org/interdisciplinary_sciences-computational_life_sciences",
+        "publisher": "Editorial Zeta",
+        "h_index": "69",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "9759-2553",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=interdisciplinary+sciences-computational+life+sciences"
+    },
+    "theologia": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/theologia",
+        "publisher": "Editorial Sigma",
+        "h_index": "29",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "2185-6608",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=theologia"
+    },
+    "journal of economics/ zeitschrift fr nationalokonomie": {
+        "areas": [
+            "CIENCIAS_ECO"
+        ],
+        "catalogos": [],
+        "website": "https://example.org/journal_of_economics/_zeitschrift_fr_nationalokonomie",
+        "publisher": "Editorial Zeta",
+        "h_index": "35",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "4568-2181",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=journal+of+economics/+zeitschrift+fr+nationalokonomie"
+    },
+    "kalba ir kontekstai": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/kalba_ir_kontekstai",
+        "publisher": "Editorial Sigma",
+        "h_index": "63",
+        "subject_areas": [
+            "Sociology"
+        ],
+        "publication_type": "Journal",
+        "issn": "3821-4671",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=kalba+ir+kontekstai"
+    },
+    "tomas bata univ zlin": {
+        "areas": [
+            "ED_LIB"
+        ],
+        "catalogos": [],
+        "website": "https://example.org/tomas_bata_univ_zlin",
+        "publisher": "Editorial Zeta",
+        "h_index": "83",
+        "subject_areas": [
+            "Engineering"
+        ],
+        "publication_type": "Journal",
+        "issn": "4588-3619",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=tomas+bata+univ+zlin"
+    },
+    "journal of applied sport psychology": {
+        "areas": [
+            "CIENCIAS_BIO",
+            "CIENCIAS_SOC"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/journal_of_applied_sport_psychology",
+        "publisher": "Editorial Delta",
+        "h_index": "45",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "3828-4802",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=journal+of+applied+sport+psychology"
+    },
+    "journal of the torrey botanical society": {
+        "areas": [
+            "CIENCIAS_BIO",
+            "ING"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/journal_of_the_torrey_botanical_society",
+        "publisher": "Editorial Zeta",
+        "h_index": "63",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "3681-9762",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=journal+of+the+torrey+botanical+society"
+    },
+    "movoznavstvo": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/movoznavstvo",
+        "publisher": "Editorial Zeta",
+        "h_index": "99",
+        "subject_areas": [
+            "Sociology"
+        ],
+        "publication_type": "Journal",
+        "issn": "4697-7162",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=movoznavstvo"
+    },
+    "usda forest service - general technical report pnw": {
+        "areas": [
+            "CIENCIAS_BIO",
+            "ING"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/usda_forest_service_-_general_technical_report_pnw",
+        "publisher": "Editorial Delta",
+        "h_index": "87",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "9866-4243",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=usda+forest+service+-+general+technical+report+pnw"
+    },
+    "delos: a journal on & of translation": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/delos:_a_journal_on_&_of_translation",
+        "publisher": "Editorial Zeta",
+        "h_index": "79",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "7237-2809",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=delos:+a+journal+on+&+of+translation"
+    },
+    "vita cattolica": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/vita_cattolica",
+        "publisher": "Editorial Delta",
+        "h_index": "19",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "8942-1392",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=vita+cattolica"
+    },
+    "folklife center news (amer. folklife center, lib. of cong.)": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/folklife_center_news_(amer._folklife_center,_lib._of_cong.)",
+        "publisher": "Editorial Zeta",
+        "h_index": "20",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "1365-6786",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=folklife+center+news+(amer.+folklife+center,+lib.+of+cong.)"
+    },
+    "journal of the american pharmacists association": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv"
+        ],
+        "website": "https://example.org/journal_of_the_american_pharmacists_association",
+        "publisher": "Editorial Zeta",
+        "h_index": "76",
+        "subject_areas": [
+            "Engineering"
+        ],
+        "publication_type": "Journal",
+        "issn": "5075-5770",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=journal+of+the+american+pharmacists+association"
+    },
+    "tekstil ve muhendis": {
+        "areas": [
+            "ING"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/tekstil_ve_muhendis",
+        "publisher": "Editorial Delta",
+        "h_index": "22",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "3361-8658",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=tekstil+ve+muhendis"
+    },
+    "protein & cell": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/protein_&_cell",
+        "publisher": "Editorial Sigma",
+        "h_index": "48",
+        "subject_areas": [
+            "Sociology"
+        ],
+        "publication_type": "Journal",
+        "issn": "5427-7537",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=protein+&+cell"
+    },
+    "plasma science & technology": {
+        "areas": [
+            "CIENCIAS_EXA"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv"
+        ],
+        "website": "https://example.org/plasma_science_&_technology",
+        "publisher": "Editorial Sigma",
+        "h_index": "59",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "1213-7982",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=plasma+science+&+technology"
+    },
+    "arzneimittel-forschung/drug research": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/arzneimittel-forschung/drug_research",
+        "publisher": "Editorial Zeta",
+        "h_index": "86",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "4135-1001",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=arzneimittel-forschung/drug+research"
+    },
+    "academy forum": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/academy_forum",
+        "publisher": "Editorial Sigma",
+        "h_index": "38",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "7456-6319",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=academy+forum"
+    },
+    "national institute economic review": {
+        "areas": [
+            "CIENCIAS_ECO"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/national_institute_economic_review",
+        "publisher": "Editorial Zeta",
+        "h_index": "91",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "1768-7623",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=national+institute+economic+review"
+    },
+    "saudi medical journal": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/saudi_medical_journal",
+        "publisher": "Editorial Zeta",
+        "h_index": "40",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "2660-4426",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=saudi+medical+journal"
+    },
+    "japan studies association journal": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/japan_studies_association_journal",
+        "publisher": "Editorial Zeta",
+        "h_index": "74",
+        "subject_areas": [
+            "Sociology"
+        ],
+        "publication_type": "Journal",
+        "issn": "8450-7519",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=japan+studies+association+journal"
+    },
+    "applied physics a: materials science and processing": {
+        "areas": [
+            "CIENCIAS_BIO",
+            "ING"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/applied_physics_a:_materials_science_and_processing",
+        "publisher": "Editorial Delta",
+        "h_index": "78",
+        "subject_areas": [
+            "Engineering"
+        ],
+        "publication_type": "Journal",
+        "issn": "1041-5024",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=applied+physics+a:+materials+science+and+processing"
+    },
+    "peritia: journal of the medieval academy of ireland": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/peritia:_journal_of_the_medieval_academy_of_ireland",
+        "publisher": "Editorial Zeta",
+        "h_index": "13",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "9287-3447",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=peritia:+journal+of+the+medieval+academy+of+ireland"
+    },
+    "petofi irodalmi muzeum evkonyve": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/petofi_irodalmi_muzeum_evkonyve",
+        "publisher": "Editorial Delta",
+        "h_index": "82",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "7014-1301",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=petofi+irodalmi+muzeum+evkonyve"
+    },
+    "celan-jahrbuch": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/celan-jahrbuch",
+        "publisher": "Editorial Zeta",
+        "h_index": "19",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "5116-7886",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=celan-jahrbuch"
+    },
+    "journal of toxicology and environmental health-part a-current issues": {
+        "areas": [
+            "CIENCIAS_BIO",
+            "CIENCIAS_SOC"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv"
+        ],
+        "website": "https://example.org/journal_of_toxicology_and_environmental_health-part_a-current_issues",
+        "publisher": "Editorial Sigma",
+        "h_index": "47",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "4333-7127",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=journal+of+toxicology+and+environmental+health-part+a-current+issues"
+    },
+    "international journal of water resources development": {
+        "areas": [
+            "ING",
+            "CIENCIAS_SOC"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/international_journal_of_water_resources_development",
+        "publisher": "Editorial Sigma",
+        "h_index": "20",
+        "subject_areas": [
+            "Sociology"
+        ],
+        "publication_type": "Journal",
+        "issn": "9270-5295",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=international+journal+of+water+resources+development"
+    },
+    "american journal of physiology - renal physiology": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/american_journal_of_physiology_-_renal_physiology",
+        "publisher": "Editorial Delta",
+        "h_index": "20",
+        "subject_areas": [
+            "Engineering"
+        ],
+        "publication_type": "Journal",
+        "issn": "7140-5501",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=american+journal+of+physiology+-+renal+physiology"
+    },
+    "sydney studies in english": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/sydney_studies_in_english",
+        "publisher": "Editorial Sigma",
+        "h_index": "43",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "5338-2613",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=sydney+studies+in+english"
+    },
+    "book collector's market: the journal of the rare, antiquarian, & out-of-print book trade": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/book_collector's_market:_the_journal_of_the_rare,_antiquarian,_&_out-of-print_book_trade",
+        "publisher": "Editorial Zeta",
+        "h_index": "48",
+        "subject_areas": [
+            "Engineering"
+        ],
+        "publication_type": "Journal",
+        "issn": "5801-1524",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=book+collector's+market:+the+journal+of+the+rare,+antiquarian,+&+out-of-print+book+trade"
+    },
+    "open cardiovascular imaging journal": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/open_cardiovascular_imaging_journal",
+        "publisher": "Editorial Sigma",
+        "h_index": "42",
+        "subject_areas": [
+            "Sociology"
+        ],
+        "publication_type": "Journal",
+        "issn": "5567-6380",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=open+cardiovascular+imaging+journal"
+    },
+    "problems of communism": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/problems_of_communism",
+        "publisher": "Editorial Delta",
+        "h_index": "56",
+        "subject_areas": [
+            "Sociology"
+        ],
+        "publication_type": "Journal",
+        "issn": "9161-1481",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=problems+of+communism"
+    },
+    "tara": {
+        "areas": [],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv"
+        ],
+        "website": "https://example.org/tara",
+        "publisher": "Editorial Delta",
+        "h_index": "64",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "8429-5470",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=tara"
+    },
+    "allemagne d'aujourd'hui": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/allemagne_d'aujourd'hui",
+        "publisher": "Editorial Zeta",
+        "h_index": "89",
+        "subject_areas": [
+            "Engineering"
+        ],
+        "publication_type": "Journal",
+        "issn": "4532-3911",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=allemagne+d'aujourd'hui"
+    },
+    "eunsa. ediciones universidad de navarra": {
+        "areas": [
+            "ED_LIB"
+        ],
+        "catalogos": [],
+        "website": "https://example.org/eunsa._ediciones_universidad_de_navarra",
+        "publisher": "Editorial Zeta",
+        "h_index": "88",
+        "subject_areas": [
+            "Sociology"
+        ],
+        "publication_type": "Journal",
+        "issn": "1548-2065",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=eunsa.+ediciones+universidad+de+navarra"
+    },
+    "journal of fashion marketing and management": {
+        "areas": [
+            "CIENCIAS_ECO"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/journal_of_fashion_marketing_and_management",
+        "publisher": "Editorial Zeta",
+        "h_index": "38",
+        "subject_areas": [
+            "Literature"
+        ],
+        "publication_type": "Journal",
+        "issn": "3814-4160",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=journal+of+fashion+marketing+and+management"
+    },
+    "stanford university press": {
+        "areas": [
+            "ED_LIB"
+        ],
+        "catalogos": [],
+        "website": "https://example.org/stanford_university_press",
+        "publisher": "Editorial Delta",
+        "h_index": "74",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "2604-7779",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=stanford+university+press"
+    },
+    "preventing chronic disease": {
+        "areas": [
+            "CIENCIAS_BIO",
+            "CIENCIAS_SOC"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/preventing_chronic_disease",
+        "publisher": "Editorial Sigma",
+        "h_index": "88",
+        "subject_areas": [
+            "Physics"
+        ],
+        "publication_type": "Journal",
+        "issn": "1650-8651",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=preventing+chronic+disease"
+    },
+    "austrobaileya": {
+        "areas": [
+            "CIENCIAS_BIO"
+        ],
+        "catalogos": [
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/austrobaileya",
+        "publisher": "Editorial Delta",
+        "h_index": "87",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "9649-6821",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=austrobaileya"
+    },
+    "the russian review": {
+        "areas": [
+            "HUMAN_Y_ART"
+        ],
+        "catalogos": [
+            "SCIELO_RadGridExport.csv",
+            "MLA_RadGridExport.csv"
+        ],
+        "website": "https://example.org/the_russian_review",
+        "publisher": "Editorial Sigma",
+        "h_index": "47",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "6013-2714",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=the+russian+review"
+    },
+    "ieee transactions on neural systems and rehabilitation engineering": {
+        "areas": [
+            "CIENCIAS_BIO",
+            "ING",
+            "CIENCIAS_EXA"
+        ],
+        "catalogos": [
+            "JCR_RadGridExport.csv",
+            "SCOPUS_RadGridExport.csv"
+        ],
+        "website": "https://example.org/ieee_transactions_on_neural_systems_and_rehabilitation_engineering",
+        "publisher": "Editorial Sigma",
+        "h_index": "31",
+        "subject_areas": [
+            "Biology"
+        ],
+        "publication_type": "Journal",
+        "issn": "2147-7342",
+        "widget": "https://www.scimagojr.com/journalsearch.php?q=ieee+transactions+on+neural+systems+and+rehabilitation+engineering"
+    }
+}
