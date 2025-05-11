@@ -55,7 +55,7 @@ proyecto/
 Instalar dependencias:
 
 bash:
-pip install -r requirements.txt
+pip install -r requerimientos.txt
 
 # Instrucciones para el funcionamiento del programa:
 
@@ -72,11 +72,13 @@ Esto lee revistas_basicas.json, consulta SCIMAGO y genera revistas_scimago.json.
 Nota: Si un título ya fue descargado, no se vuelve a consultar.
 
 ## Parte 3:
-Primero se tiene que correr la Parte 2, despues:
+1. Primero se tiene que correr la Parte 2, despues:
 
-Desde la carpeta raiz: python main.py
+2. Instalar los requerimientos.
 
-Posteriormente atraves del navegador acceder a: http://localhost:5000
+3. Desde la carpeta raiz: python main.py
+
+4. Posteriormente atraves del navegador acceder a: http://localhost:5000
 
 
 ## Aclaracion final: 
