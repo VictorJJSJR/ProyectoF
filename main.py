@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 import json
 import os
 
-app = Flask(__name__, template_folder="app/templates")
+app = Flask(__name__, template_folder="app/templates", static_folder="app/static")
 
 # Ruta al JSON generado por el scraper
 RUTA_JSON = os.path.join("datos", "json", "revistas_completo.json")
