@@ -3,8 +3,10 @@
 {% block content %}
 <div class="container mt-4">
   <h2>Revistas por {{ tipo }}: <span class="text-primary">{{ filtro }}</span></h2>
+
   <input type="text" class="form-control my-3" id="busqueda" placeholder="Buscar revista...">
-  <table class="table table-bordered table-hover" id="tabla">
+
+  <table class="table table-bordered table-striped" id="tabla">
     <thead class="table-light">
       <tr>
         <th>Título</th>
@@ -15,7 +17,7 @@
       {% for titulo, datos in revistas.items() %}
       <tr>
         <td><a href="{{ url_for('detalle_revista', titulo=titulo) }}">{{ titulo }}</a></td>
-        <td>{{ datos.get('H-Index', 'N/A') }}</td>
+        <td>{{ datos.get('h_index', 'N/A') }}</td>
       </tr>
       {% endfor %}
     </tbody>
@@ -23,13 +25,12 @@
 </div>
 
 <script>
-document.getElementById('busqueda').addEventListener('keyup', function () {
-  const filtro = this.value.toLowerCase();
-  const filas = document.querySelectorAll("#tabla tbody tr");
-  filas.forEach(fila => {
-    const texto = fila.textContent.toLowerCase();
-    fila.style.display = texto.includes(filtro) ? "" : "none";
+  document.getElementById("busqueda").addEventListener("keyup", function () {
+    const filtro = this.value.toLowerCase();
+    document.querySelectorAll("#tabla tbody tr").forEach(row => {
+      const texto = row.textContent.toLowerCase();
+      row.style.display = texto.includes(filtro) ? "" : "none";
+    });
   });
-});
 </script>
 {% endblock %}

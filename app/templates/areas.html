@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-4">
+  <h2>Áreas disponibles</h2>
+  <ul class="list-group">
+    {% for area in areas %}
+    <li class="list-group-item">
+      <a href="{{ url_for('revistas_por_area', nombre=area) }}">{{ area }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endblock %}
