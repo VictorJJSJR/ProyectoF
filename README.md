@@ -80,6 +80,9 @@ Nota: Si un título ya fue descargado, no se vuelve a consultar.
 
 4. Posteriormente atraves del navegador acceder a: http://localhost:5000
 
+## Puntos Extras cumplidos:
+1. Logotipo con nombre del sistema (1 punto)
+2. Presentacion con las funcionalidades claves del programa (2 puntos)
 
 ## Aclaracion final: 
 Al momento de hacer actualizaciones en GitHub, los cambios tendían a ser muy grandes porque se solían hacer muchos cambios antes de subirse y estos se acumulaban.
